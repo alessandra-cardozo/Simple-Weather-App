@@ -6,7 +6,5 @@
 
 Projeto que mostracomo fazer um aplicativo meteorológico simples usando HTML, CSS e muito mais. JavaScript
 
-Demonstração ao vivo: https://prince-shivaram.github.io/Simple-Weather-App/
-
 ![WeatherApp](https://user-images.githubusercontent.com/42378118/99897986-fd02dc00-2cc3-11eb-9cac-f5b577bfef40.png)
 
